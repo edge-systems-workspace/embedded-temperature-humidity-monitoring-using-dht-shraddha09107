@@ -4,7 +4,7 @@
  * @file DHT11_Monitor.ino
  * @brief Reads temperature and humidity using DHT11 sensor and prints to Serial Monitor.
  *
- * @author Shraddha
+ * @author Shraddha singh
  * @date 2026-02-21
  * @version 1.0
  *
